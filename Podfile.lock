@@ -1,24 +1,24 @@
 PODS:
   - Alamofire (2.0.1)
-  - CocoaLumberjack/Core (3.0.0)
-  - CocoaLumberjack/Default (3.0.0):
+  - CocoaLumberjack/Core (2.4.0)
+  - CocoaLumberjack/Default (2.4.0):
     - CocoaLumberjack/Core
-  - CocoaLumberjack/Extensions (3.0.0):
+  - CocoaLumberjack/Extensions (2.4.0):
     - CocoaLumberjack/Default
-  - CocoaLumberjack/Swift (3.0.0):
+  - CocoaLumberjack/Swift (2.4.0):
     - CocoaLumberjack/Extensions
   - MBProgressHUD (0.9.2)
 
 DEPENDENCIES:
   - Alamofire (= 2.0.1)
-  - CocoaLumberjack/Swift (~> 3.0)
+  - CocoaLumberjack/Swift (~> 2.4.0)
   - MBProgressHUD (~> 0.9.0)
 
 SPEC CHECKSUMS:
   Alamofire: 1d8e208d616fbbfd2391b15eae766d07c96cdc49
-  CocoaLumberjack: c823149bccc5519a9447aeb433be7b1212a7d6a5
+  CocoaLumberjack: aa9dcab71bdf9eaf2a63bbd9ddc87863efe45457
   MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
 
-PODFILE CHECKSUM: db05b148906a91db4cb6e41758e3394a22dfe9e1
+PODFILE CHECKSUM: 18568da49fc4438313f2ddc559f8ed1fe83ab91f
 
 COCOAPODS: 1.1.1
