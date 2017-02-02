@@ -8,6 +8,6 @@ target 'BBSimpleCocoapods' do
 end
 
 target 'BBSimpleCocoapodsTests' do
-
+  pod 'CocoaLumberjack/Swift'
 end
 
